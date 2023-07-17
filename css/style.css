@@ -11,7 +11,8 @@
   --clr-secondary-400: hsla(229, 47%, 17%, 1);
   --clr-pimary-800: hsla(229, 78%, 60%, 1);
 
-  --ff-base: "Outfit", sans-serif;
+  /* --ff-base: "Outfit", sans-serif; */
+  font-family: Outfit, sans-serif;
 
   --fw-regular: 300;
   --fw-semi-bold: 400;
